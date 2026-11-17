@@ -1,0 +1,11 @@
+{
+  "team_number": "T0126",
+  "group_lead": { "name": "Kirtivardhan Singh Rathore", "enrollment_no": "2501010719", "github": "https://github.com/Kirtivardhan-25719" },
+  "members": [
+    { "name": "Parth Mittal", "enrollment_no": "2501010657", "github": "https://github.com/parthm25657" },
+    { "name": "Vatsalya Vikram", "enrollment_no": "2501010500", "github": "" },
+    { "name": "", "enrollment_no": "", "github": "" }
+  ],
+  "postgres_version": "",
+  "laptop_used_for_benchmarks": ""
+}
